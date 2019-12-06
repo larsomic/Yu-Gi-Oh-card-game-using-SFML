@@ -1,0 +1,50 @@
+Great Angus,FIRE,1800,600,32
+Judge Man,EARTH,2200,1500,74
+Battle Footballer,FIRE,1000,2100,34
+Wolf Axwielder,EARTH,1650,1000,23
+Oscillo Hero #2,LIGHT,1000,500,103
+Blade Skater,EARTH,1400,1500,58
+Parrot Dragon,WIND,2000,1300,117
+Girochin Kuwagata,WIND,1700,1000,13
+Giga Gagagigo,WATER,2450,1500,39
+Spikebot,DARK,1800,1700,12
+Neo Bug,EARTH,1800,1700,40
+Elemental Hero Burstinatrix,FIRE,1200,800,51
+Kanan the Swordmistress,EARTH,1400,1400,132
+Gagagigo,WATER,1850,1000,37
+Sabersaurus,EARTH,1900,500,60
+Space Mambo,WATER,1700,1000,47
+Behegon,WATER,1350,1000,128
+The All-Seeing White Tiger,WIND,1300,500,16
+Dokuroyaiba,FIRE,1000,400,18
+Gatekeeper,DARK,1500,1800,127
+Steel Ogre Grotto #2,EARTH,1900,2200,1
+La Jin Mystic Genie of the Lamp,DARK,1800,1000,81
+Toon Alligator,WATER,800,1600,84
+Hercules Beetle,EARTH,1500,2000,110
+Ogre of the Black Shadow,EARTH,1200,1400,80
+Elemental Hero Neos,LIGHT,2500,2000,59
+Robotic Knight,FIRE,1600,1800,22
+Blocker,DARK,850,1800,131
+Flame Champion,FIRE,1900,1300,3
+Oscillo Hero,EARTH,1250,700,108
+Moon Envoy,LIGHT,1100,1000,91
+Molten Behemoth,FIRE,1000,2200,26
+Nekogal #2,EARTH,1900,2000,125
+Rude Kaiser,EARTH,1800,1600,82
+Overdrive,EARTH,1600,1500,11
+Robolady,EARTH,450,900,24
+Temple of Skulls,DARK,900,1300,130
+Cyber Falcon,WIND,1400,1200,8
+United Resistance,WIND,1000,400,31
+Magical Ghost,DARK,1300,1400,69
+Flying Penguin,WATER,1200,1000,98
+Big Koala,EARTH,2700,2000,38
+Cyber Soldier of Darkworld,DARK,1400,1200,112
+Ryu-Kishin,DARK,1000,500,71
+Flying Kamakiri #2,WIND,1500,800,9
+Dunames Dark Witch,LIGHT,1800,1050,126
+Cyber-Tech Alligator,WIND,2500,1600,85
+Elemental Hero Clayman,EARTH,800,2000,52
+Swordstalker,DARK,2000,1600,87
+Dark Titan of Terror,DARK,1300,1100,76

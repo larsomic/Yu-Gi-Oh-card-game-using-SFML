@@ -1,0 +1,50 @@
+Neo Bug,EARTH,1800,1700,40
+Terrorking Salmon,WATER,2400,1000,42
+Fairy Dragon,WIND,1100,1200,86
+Big Koala,EARTH,2700,2000,38
+Moon Envoy,LIGHT,1100,1000,91
+Mystic Clown,DARK,1500,1000,68
+Giga Gagagigo,WATER,2450,1500,39
+Sleeping Lion,EARTH,700,1700,120
+Battle Ox,EARTH,1700,1000,72
+Robolady,EARTH,450,900,24
+Yamadron,FIRE,1600,1800,96
+Baron of the Fiend Sword,DARK,1550,800,70
+Elemental Hero Sparkman,LIGHT,1600,1400,53
+Rude Kaiser,EARTH,1800,1600,82
+Zoa,DARK,2600,1900,102
+Mr. Volcano,FIRE,2100,1300,6
+Alien Shocktrooper,EARTH,1900,800,61
+Elemental Hero Neos,LIGHT,2500,2000,59
+Crawling Dragon #2,EARTH,1600,1200,116
+Magical Ghost,DARK,1300,1400,69
+Stuffed Animal,EARTH,1200,900,94
+Shapesnatch,DARK,1200,1700,27
+Koumori Dragon,DARK,1500,1200,73
+Swordstalker,DARK,2000,1600,87
+Overdrive,EARTH,1600,1500,11
+Chamberlain of the Six Samurai,EARTH,200,2000,64
+Warrior Dai Grepher,EARTH,1700,1600,19
+La Jin Mystic Genie of the Lamp,DARK,1800,1000,81
+V-Tiger Jet,LIGHT,1600,1800,57
+Hercules Beetle,EARTH,1500,2000,110
+Flying Penguin,WATER,1200,1000,98
+Girochin Kuwagata,WIND,1700,1000,13
+Elemental Hero Burstinatrix,FIRE,1200,800,51
+Darkfire Soldier #2,FIRE,1700,1100,7
+D. Human,EARTH,1300,110,83
+Ushi Oni,DARK,2150,1950,99
+The All-Seeing White Tiger,WIND,1300,500,16
+Zure Knight of Dark World,DARK,1800,1500,56
+Divine Dragon Ragnarok,LIGHT,1500,1000,48
+Gatekeeper,DARK,1500,1800,127
+Cyber Soldier of Darkworld,DARK,1400,1200,112
+Three-Headed Geedo,DARK,1200,1400,2
+Lizard Soldier,WIND,1100,800,21
+Warrior of Zera,EARTH,1600,1600,44
+Great White,WATER,1600,800,65
+Wolf Axwielder,EARTH,1650,1000,23
+Sabersaurus,EARTH,1900,500,60
+Nekogal #2,EARTH,1900,2000,125
+Prisman,LIGHT,800,1000,123
+Wow Warrior,WATER,1250,900,107

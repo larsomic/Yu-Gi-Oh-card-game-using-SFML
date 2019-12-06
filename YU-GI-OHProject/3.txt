@@ -1,0 +1,50 @@
+Gradius,LIGHT,1200,800,14
+D. Human,EARTH,1300,110,83
+United Resistance,WIND,1000,400,31
+La Jin Mystic Genie of the Lamp,DARK,1800,1000,81
+Yaranzo,DARK,1300,1500,93
+Stuffed Animal,EARTH,1200,900,94
+The Judgement Hand,EARTH,1400,700,111
+Dunames Dark Witch,LIGHT,1800,1050,126
+Unknown Warrior Fiend,DARK,1000,500,79
+Zure Knight of Dark World,DARK,1800,1500,56
+Rude Kaiser,EARTH,1800,1600,82
+Claw Reacher,DARK,1000,800,67
+Gogiga Gagagigo,WATER,2950,2800,43
+Behegon,WATER,1350,1000,128
+Aitsu,FIRE,100,100,33
+Master & Expert,EARTH,1200,1000,78
+Trakodon,EARTH,1300,800,89
+Great White,WATER,1600,800,65
+Toon Alligator,WATER,800,1600,84
+Sky Dragon,WIND,1900,1800,118
+Koumori Dragon,DARK,1500,1200,73
+Megasonic Eye,DARK,1500,1800,95
+Shapesnatch,DARK,1200,1700,27
+Oni Tank T-34,EARTH,1400,1700,10
+Warrior Dai Grepher,EARTH,1700,1600,19
+Gyakutenno Megami,LIGHT,1800,2000,75
+Cycroid,EARTH,800,1000,54
+Moon Envoy,LIGHT,1100,1000,91
+Garoozis,FIRE,1800,1500,115
+Elemental Hero Neos,LIGHT,2500,2000,59
+Insect Knight,EARTH,1900,1500,49
+Gagagigo,WATER,1850,1000,37
+Battle Ox,EARTH,1700,1000,72
+Cyber Falcon,WIND,1400,1200,8
+Darkfire Soldier #1,FIRE,1700,1150,5
+Water Magician,WATER,1400,1000,119
+Gatekeeper,DARK,1500,1800,127
+Parrot Dragon,WIND,2000,1300,117
+Nekogal #2,EARTH,1900,2000,125
+Sea Serpent Warrior of Darkness,WATER,1800,1500,41
+Sabersaurus,EARTH,1900,500,60
+Roboyarou,EARTH,900,450,25
+Giant Flea,EARTH,1500,1200,104
+Mystical Shine Ball,LIGHT,500,500,45
+Cyber Soldier of Darkworld,DARK,1400,1200,112
+Divine Dragon Ragnarok,LIGHT,1500,1000,48
+Firewing Pegasus,FIRE,2250,1800,133
+Robotic Knight,FIRE,1600,1800,22
+Overdrive,EARTH,1600,1500,11
+Blade Skater,EARTH,1400,1500,58

@@ -1,0 +1,50 @@
+Ansatsu,EARTH,1700,1200,66
+Master Kyonshee,EARTH,1750,1000,28
+Molten Behemoth,FIRE,1000,2200,26
+Warrior Dai Grepher,EARTH,1700,1600,19
+Ogre of the Black Shadow,EARTH,1200,1400,80
+United Resistance,WIND,1000,400,31
+Gagagigo,WATER,1850,1000,37
+Rude Kaiser,EARTH,1800,1600,82
+Skull Mariner,WATER,1600,900,15
+Elemental Hero Clayman,EARTH,800,2000,52
+Kuwagata,EARTH,1250,1000,113
+Giant Flea,EARTH,1500,1200,104
+Stuffed Animal,EARTH,1200,900,94
+Giga Gagagigo,WATER,2450,1500,39
+Baron of the Fiend Sword,DARK,1550,800,70
+Metal Armored Bug,EARTH,2800,1500,46
+Elemental Hero Burstinatrix,FIRE,1200,800,51
+Flame Champion,FIRE,1900,1300,3
+Gradius,LIGHT,1200,800,14
+Science Soldier,DARK,800,800,17
+Koumori Dragon,DARK,1500,1200,73
+Magical Ghost,DARK,1300,1400,69
+Dark Titan of Terror,DARK,1300,1100,76
+Shapesnatch,DARK,1200,1700,27
+Warrior of Zera,EARTH,1600,1600,44
+Darkfire Soldier #2,FIRE,1700,1100,7
+Millennium Golem,EARTH,2000,2200,124
+The Statue of Easter Island,EARTH,1100,1400,105
+Oscillo Hero #2,LIGHT,1000,500,103
+Lizard Soldier,WIND,1100,800,21
+Sky Dragon,WIND,1900,1800,118
+Dokuroyaiba,FIRE,1000,400,18
+Wolf Axwielder,EARTH,1650,1000,23
+Aitsu,FIRE,100,100,33
+Ryu-Kishin,DARK,1000,500,71
+V-Tiger Jet,LIGHT,1600,1800,57
+Gatekeeper,DARK,1500,1800,127
+Space Mambo,WATER,1700,1000,47
+Trakodon,EARTH,1300,800,89
+Three-Headed Geedo,DARK,1200,1400,2
+Great Angus,FIRE,1800,600,32
+Burglar,EARTH,850,800,122
+Battle Footballer,FIRE,1000,2100,34
+Dungeon Worm,EARTH,1800,1500,90
+Acrobat Monkey,EARTH,1000,1800,36
+Yaranzo,DARK,1300,1500,93
+Elemental Hero Avian,WIND,1000,1000,50
+Skull Dog Marron,EARTH,1350,2000,101
+Elemental Hero Neos,LIGHT,2500,2000,59
+Prisman,LIGHT,800,1000,123

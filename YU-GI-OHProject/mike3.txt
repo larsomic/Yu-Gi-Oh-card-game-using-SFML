@@ -1,0 +1,50 @@
+Sky Dragon,WIND,1900,1800,118
+Chamberlain of the Six Samurai,EARTH,200,2000,64
+United Resistance,WIND,1000,400,31
+Wow Warrior,WATER,1250,900,107
+Darkfire Soldier #2,FIRE,1700,1100,7
+Acrobat Monkey,EARTH,1000,1800,36
+Rude Kaiser,EARTH,1800,1600,82
+Kanan the Swordmistress,EARTH,1400,1400,132
+Science Soldier,DARK,800,800,17
+Sleeping Lion,EARTH,700,1700,120
+Cyber Falcon,WIND,1400,1200,8
+Magical Ghost,DARK,1300,1400,69
+Mr. Volcano,FIRE,2100,1300,6
+Cyber-Tech Alligator,WIND,2500,1600,85
+Elemental Hero Avian,WIND,1000,1000,50
+Lord of the Lamp,DARK,1400,1200,88
+Millennium Golem,EARTH,2000,2200,124
+Blocker,DARK,850,1800,131
+Insect Knight,EARTH,1900,1500,49
+Blade Skater,EARTH,1400,1500,58
+Roboyarou,EARTH,900,450,25
+D. Human,EARTH,1300,110,83
+V-Tiger Jet,LIGHT,1600,1800,57
+Master & Expert,EARTH,1200,1000,78
+Ushi Oni,DARK,2150,1950,99
+Dunames Dark Witch,LIGHT,1800,1050,126
+Darkfire Soldier #1,FIRE,1700,1150,5
+Koumori Dragon,DARK,1500,1200,73
+Lizard Soldier,WIND,1100,800,21
+Water Magician,WATER,1400,1000,119
+The Judgement Hand,EARTH,1400,700,111
+Ansatsu,EARTH,1700,1200,66
+Garoozis,FIRE,1800,1500,115
+Fairy Dragon,WIND,1100,1200,86
+Parrot Dragon,WIND,2000,1300,117
+Megasonic Eye,DARK,1500,1800,95
+Gogiga Gagagigo,WATER,2950,2800,43
+Skull Dog Marron,EARTH,1350,2000,101
+Kabazauls,WATER,1700,1500,29
+Steel Ogre Grotto #2,EARTH,1900,2200,1
+Violent Rain,WATER,1550,800,129
+Ryu-Kishin,DARK,1000,500,71
+Neo Bug,EARTH,1800,1700,40
+Two-Headed  King Rex,EARTH,1600,1200,114
+Firewing Pegasus,FIRE,2250,1800,133
+Venom Cobra,EARTH,100,2000,63
+Oscillo Hero,EARTH,1250,700,108
+Gyakutenno Megami,LIGHT,1800,2000,75
+Behegon,WATER,1350,1000,128
+Prisman,LIGHT,800,1000,123

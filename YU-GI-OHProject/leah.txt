@@ -1,0 +1,50 @@
+Cycroid,EARTH,800,1000,54
+Neo Bug,EARTH,1800,1700,40
+Fairy Dragon,WIND,1100,1200,86
+Giant Flea,EARTH,1500,1200,104
+Roboyarou,EARTH,900,450,25
+Three-Headed Geedo,DARK,1200,1400,2
+Kabazauls,WATER,1700,1500,29
+Two-Headed  King Rex,EARTH,1600,1200,114
+Battle Ox,EARTH,1700,1000,72
+Parrot Dragon,WIND,2000,1300,117
+Baron of the Fiend Sword,DARK,1550,800,70
+Violent Rain,WATER,1550,800,129
+Trakodon,EARTH,1300,800,89
+Dark Assailant,DARK,1200,1200,77
+Oscillo Hero #2,LIGHT,1000,500,103
+La Jin Mystic Genie of the Lamp,DARK,1800,1000,81
+Moon Envoy,LIGHT,1100,1000,91
+Flying Penguin,WATER,1200,1000,98
+Mystic Clown,DARK,1500,1000,68
+V-Tiger Jet,LIGHT,1600,1800,57
+Skull Dog Marron,EARTH,1350,2000,101
+Gradius,LIGHT,1200,800,14
+Firewing Pegasus,FIRE,2250,1800,133
+Elemental Hero Burstinatrix,FIRE,1200,800,51
+Yamadron,FIRE,1600,1800,96
+Space Mambo,WATER,1700,1000,47
+Darkfire Soldier #2,FIRE,1700,1100,7
+Master & Expert,EARTH,1200,1000,78
+Nin-Ken Dog,WIND,1800,1000,35
+Renge Gatekeeper of Dark World,DARK,100,2100,62
+The Statue of Easter Island,EARTH,1100,1400,105
+Wow Warrior,WATER,1250,900,107
+Sky Dragon,WIND,1900,1800,118
+Yaranzo,DARK,1300,1500,93
+Nekogal #2,EARTH,1900,2000,125
+Steel Ogre Grotto #2,EARTH,1900,2200,1
+Claw Reacher,DARK,1000,800,67
+Inpachi,EARTH,1600,1900,30
+Alien Shocktrooper,EARTH,1900,800,61
+The Dragon Dwelling in the Cave,WIND,1300,2000,20
+Shining Friendship,LIGHT,1300,1100,109
+Terrorking Salmon,WATER,2400,1000,42
+Robotic Knight,FIRE,1600,1800,22
+Aitsu,FIRE,100,100,33
+The All-Seeing White Tiger,WIND,1300,500,16
+Corroding Shark,DARK,1100,700,106
+Flying Kamakiri #2,WIND,1500,800,9
+Sleeping Lion,EARTH,700,1700,120
+Rude Kaiser,EARTH,1800,1600,82
+Great White,WATER,1600,800,65

@@ -1,0 +1,50 @@
+Judge Man,EARTH,2200,1500,74
+Mad Lobster,WATER,1700,1000,55
+Divine Dragon Ragnarok,LIGHT,1500,1000,48
+Metal Armored Bug,EARTH,2800,1500,46
+Nekogal #2,EARTH,1900,2000,125
+Rude Kaiser,EARTH,1800,1600,82
+Flying Kamakiri #2,WIND,1500,800,9
+Flame Champion,FIRE,1900,1300,3
+Elemental Hero Burstinatrix,FIRE,1200,800,51
+Stuffed Animal,EARTH,1200,900,94
+Behegon,WATER,1350,1000,128
+Nekogal #1,EARTH,1100,900,121
+Turtle Bird,WATER,1900,1700,100
+Zoa,DARK,2600,1900,102
+Battle Footballer,FIRE,1000,2100,34
+Great Angus,FIRE,1800,600,32
+Moon Envoy,LIGHT,1100,1000,91
+Shapesnatch,DARK,1200,1700,27
+Dark Titan of Terror,DARK,1300,1100,76
+Wolf Axwielder,EARTH,1650,1000,23
+Three-Headed Geedo,DARK,1200,1400,2
+Cyber-Tech Alligator,WIND,2500,1600,85
+Gatekeeper,DARK,1500,1800,127
+Mystical Shine Ball,LIGHT,500,500,45
+Elemental Hero Sparkman,LIGHT,1600,1400,53
+Great White,WATER,1600,800,65
+The Judgement Hand,EARTH,1400,700,111
+Ogre of the Black Shadow,EARTH,1200,1400,80
+Wow Warrior,WATER,1250,900,107
+V-Tiger Jet,LIGHT,1600,1800,57
+The Statue of Easter Island,EARTH,1100,1400,105
+Prisman,LIGHT,800,1000,123
+Mystic Clown,DARK,1500,1000,68
+La Jin Mystic Genie of the Lamp,DARK,1800,1000,81
+Renge Gatekeeper of Dark World,DARK,100,2100,62
+Blade Skater,EARTH,1400,1500,58
+Lizard Soldier,WIND,1100,800,21
+Girochin Kuwagata,WIND,1700,1000,13
+Stone Dragon,EARTH,2000,2300,92
+Chamberlain of the Six Samurai,EARTH,200,2000,64
+Parrot Dragon,WIND,2000,1300,117
+The All-Seeing White Tiger,WIND,1300,500,16
+Firewing Pegasus,FIRE,2250,1800,133
+Shining Friendship,LIGHT,1300,1100,109
+Three-Legged Zombies,DARK,1100,800,97
+Skull Mariner,WATER,1600,900,15
+Ushi Oni,DARK,2150,1950,99
+Skull Dog Marron,EARTH,1350,2000,101
+Blocker,DARK,850,1800,131
+D. Human,EARTH,1300,110,83

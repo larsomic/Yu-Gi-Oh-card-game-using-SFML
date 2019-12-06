@@ -1,0 +1,50 @@
+Stuffed Animal,EARTH,1200,900,94
+Kanan the Swordmistress,EARTH,1400,1400,132
+Gatekeeper,DARK,1500,1800,127
+Zure Knight of Dark World,DARK,1800,1500,56
+Venom Cobra,EARTH,100,2000,63
+La Jin Mystic Genie of the Lamp,DARK,1800,1000,81
+Burglar,EARTH,850,800,122
+Behegon,WATER,1350,1000,128
+Sea Serpent Warrior of Darkness,WATER,1800,1500,41
+Two-Headed  King Rex,EARTH,1600,1200,114
+Robolady,EARTH,450,900,24
+Megasonic Eye,DARK,1500,1800,95
+Aitsu,FIRE,100,100,33
+Chamberlain of the Six Samurai,EARTH,200,2000,64
+Baron of the Fiend Sword,DARK,1550,800,70
+Ryu-Kishin,DARK,1000,500,71
+Kabazauls,WATER,1700,1500,29
+The Statue of Easter Island,EARTH,1100,1400,105
+Cyber Soldier of Darkworld,DARK,1400,1200,112
+Lizard Soldier,WIND,1100,800,21
+Trakodon,EARTH,1300,800,89
+United Resistance,WIND,1000,400,31
+D. Human,EARTH,1300,110,83
+Giant Flea,EARTH,1500,1200,104
+Ushi Oni,DARK,2150,1950,99
+Millennium Golem,EARTH,2000,2200,124
+Spikebot,DARK,1800,1700,12
+Elemental Hero Avian,WIND,1000,1000,50
+Kuwagata,EARTH,1250,1000,113
+Molten Behemoth,FIRE,1000,2200,26
+Stone Dragon,EARTH,2000,2300,92
+The All-Seeing White Tiger,WIND,1300,500,16
+Gyakutenno Megami,LIGHT,1800,2000,75
+Ansatsu,EARTH,1700,1200,66
+Zoa,DARK,2600,1900,102
+Prisman,LIGHT,800,1000,123
+Fairy Dragon,WIND,1100,1200,86
+Garoozis,FIRE,1800,1500,115
+Magical Ghost,DARK,1300,1400,69
+Judge Man,EARTH,2200,1500,74
+Wolf Axwielder,EARTH,1650,1000,23
+Nekogal #2,EARTH,1900,2000,125
+Renge Gatekeeper of Dark World,DARK,100,2100,62
+Gradius,LIGHT,1200,800,14
+Toon Alligator,WATER,800,1600,84
+Science Soldier,DARK,800,800,17
+Sky Dragon,WIND,1900,1800,118
+Overdrive,EARTH,1600,1500,11
+Sleeping Lion,EARTH,700,1700,120
+Elemental Hero Sparkman,LIGHT,1600,1400,53

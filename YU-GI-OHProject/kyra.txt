@@ -1,0 +1,50 @@
+Unknown Warrior Fiend,DARK,1000,500,79
+Roboyarou,EARTH,900,450,25
+Acrobat Monkey,EARTH,1000,1800,36
+Nekogal #2,EARTH,1900,2000,125
+Cycroid,EARTH,800,1000,54
+Moon Envoy,LIGHT,1100,1000,91
+Dungeon Worm,EARTH,1800,1500,90
+Skull Dog Marron,EARTH,1350,2000,101
+Sky Dragon,WIND,1900,1800,118
+Three-Legged Zombies,DARK,1100,800,97
+Nin-Ken Dog,WIND,1800,1000,35
+Robotic Knight,FIRE,1600,1800,22
+Shining Friendship,LIGHT,1300,1100,109
+Stone Dragon,EARTH,2000,2300,92
+Warrior Dai Grepher,EARTH,1700,1600,19
+Lizard Soldier,WIND,1100,800,21
+Violent Rain,WATER,1550,800,129
+Gatekeeper,DARK,1500,1800,127
+Darkfire Soldier #2,FIRE,1700,1100,7
+Lord of the Lamp,DARK,1400,1200,88
+Blade Skater,EARTH,1400,1500,58
+Turtle Bird,WATER,1900,1700,100
+Swordstalker,DARK,2000,1600,87
+Science Soldier,DARK,800,800,17
+Rude Kaiser,EARTH,1800,1600,82
+Temple of Skulls,DARK,900,1300,130
+Burglar,EARTH,850,800,122
+Parrot Dragon,WIND,2000,1300,117
+Cyber-Tech Alligator,WIND,2500,1600,85
+Fairy Dragon,WIND,1100,1200,86
+Big Koala,EARTH,2700,2000,38
+Behegon,WATER,1350,1000,128
+Overdrive,EARTH,1600,1500,11
+Baron of the Fiend Sword,DARK,1550,800,70
+Water Magician,WATER,1400,1000,119
+Ogre of the Black Shadow,EARTH,1200,1400,80
+The Judgement Hand,EARTH,1400,700,111
+Sea Serpent Warrior of Darkness,WATER,1800,1500,41
+Space Mambo,WATER,1700,1000,47
+Three-Headed Geedo,DARK,1200,1400,2
+Judge Man,EARTH,2200,1500,74
+Corroding Shark,DARK,1100,700,106
+Crawling Dragon #2,EARTH,1600,1200,116
+Yaranzo,DARK,1300,1500,93
+Ansatsu,EARTH,1700,1200,66
+Magical Ghost,DARK,1300,1400,69
+Kabazauls,WATER,1700,1500,29
+Sleeping Lion,EARTH,700,1700,120
+Darkfire Soldier #1,FIRE,1700,1150,5
+Master Kyonshee,EARTH,1750,1000,28

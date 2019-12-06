@@ -1,0 +1,50 @@
+Molten Behemoth,FIRE,1000,2200,26
+Ogre of the Black Shadow,EARTH,1200,1400,80
+Darkfire Soldier #2,FIRE,1700,1100,7
+Alien Shocktrooper,EARTH,1900,800,61
+Zoa,DARK,2600,1900,102
+Oni Tank T-34,EARTH,1400,1700,10
+Violent Rain,WATER,1550,800,129
+Kanan the Swordmistress,EARTH,1400,1400,132
+Skull Dog Marron,EARTH,1350,2000,101
+Inpachi,EARTH,1600,1900,30
+Temple of Skulls,DARK,900,1300,130
+Lizard Soldier,WIND,1100,800,21
+Ushi Oni,DARK,2150,1950,99
+Wolf Axwielder,EARTH,1650,1000,23
+Battle Footballer,FIRE,1000,2100,34
+Gradius,LIGHT,1200,800,14
+Renge Gatekeeper of Dark World,DARK,100,2100,62
+Gogiga Gagagigo,WATER,2950,2800,43
+Turtle Bird,WATER,1900,1700,100
+Battle Ox,EARTH,1700,1000,72
+Venom Cobra,EARTH,100,2000,63
+Garoozis,FIRE,1800,1500,115
+D. Human,EARTH,1300,110,83
+Three-Legged Zombies,DARK,1100,800,97
+Wow Warrior,WATER,1250,900,107
+Toon Alligator,WATER,800,1600,84
+Behegon,WATER,1350,1000,128
+Gatekeeper,DARK,1500,1800,127
+Yamadron,FIRE,1600,1800,96
+Warrior of Zera,EARTH,1600,1600,44
+Gagagigo,WATER,1850,1000,37
+Water Magician,WATER,1400,1000,119
+Space Mambo,WATER,1700,1000,47
+Unknown Warrior Fiend,DARK,1000,500,79
+Parrot Dragon,WIND,2000,1300,117
+Master Kyonshee,EARTH,1750,1000,28
+Dunames Dark Witch,LIGHT,1800,1050,126
+Rude Kaiser,EARTH,1800,1600,82
+Insect Knight,EARTH,1900,1500,49
+Great White,WATER,1600,800,65
+Girochin Kuwagata,WIND,1700,1000,13
+Robotic Knight,FIRE,1600,1800,22
+Darkfire Soldier #1,FIRE,1700,1150,5
+Megasonic Eye,DARK,1500,1800,95
+The All-Seeing White Tiger,WIND,1300,500,16
+Oscillo Hero #2,LIGHT,1000,500,103
+Steel Ogre Grotto #2,EARTH,1900,2200,1
+V-Tiger Jet,LIGHT,1600,1800,57
+Zure Knight of Dark World,DARK,1800,1500,56
+Corroding Shark,DARK,1100,700,106
